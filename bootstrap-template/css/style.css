@@ -99,13 +99,16 @@ body {
     width: 100%;
 }
 
-.btn.info {
+.btn-primary {
     background-color: #08340A;
-    
+ 
+}
+
 .modal-body img {
     width: 100%;
 }
 
 
-
-
+.label {
+    color:black;
+}
